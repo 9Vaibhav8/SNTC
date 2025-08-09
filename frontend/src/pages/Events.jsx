@@ -253,7 +253,7 @@ const Events = () => {
           {/* Spline Element in the Middle */}
           <div className="relative h-[600px] mb-20 rounded-3xl overflow-hidden border border-white/10 bg-black/20 backdrop-blur-sm">
             <Spline
-              scene="https://prod.spline.design/z9iTIJdJr6Jd4Mxc/scene.splinecode" 
+              scene="https://prod.spline.design/aKzWWMbU7pXN1iTo/scene.splinecode" 
               className="w-full h-full"
             />
             {/* Overlay for better integration */}
