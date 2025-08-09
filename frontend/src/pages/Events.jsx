@@ -48,7 +48,7 @@ const Events = () => {
     {
       name: "Utkarsh", 
       description: "Premier cultural-technical hybrid event focusing on creative problem-solving and artistic expression through technology.",
-      category: "Cultural Event",
+      category: "Tech Event",
       icon: "🎭",
       gradient: "from-blue-500 via-cyan-500 to-indigo-600",
       accent: "blue",

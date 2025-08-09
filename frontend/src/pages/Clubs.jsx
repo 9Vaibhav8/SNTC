@@ -50,6 +50,15 @@ const clubList = [
     icon: "🧬",
     color: "from-gray-700 to-gray-500"
   }
+
+  { 
+    name: "Yantrik", 
+    tagline: "Mechanical Engineering Society", 
+    description: "Designing mechanical systems that drive efficiency and innovation in various industries.",
+    category: "Engineering", 
+    icon: "⚙️",
+    color: "from-gray-700 to-gray-500"
+  }
 ];
 
 const Clubs = () => {
@@ -84,7 +93,7 @@ const Clubs = () => {
           scene="https://prod.spline.design/T07NQAEcYrP7jNbw/scene.splinecode" 
           className="w-full h-full"
         />
-        {/* Dark overlay for better text readability */}
+     
         <div className="absolute inset-0 bg-black/20 backdrop-blur-[0.5px]"></div>
       </div>
       
@@ -226,7 +235,7 @@ const Clubs = () => {
             >
               <div className="text-center group">
                 <div className="text-4xl md:text-5xl font-light text-white mb-2 group-hover:scale-110 transition-transform duration-300">
-                  06
+                  07
                 </div>
                 <div className="text-sm uppercase tracking-wider text-gray-300">
                   Technical Clubs
@@ -235,7 +244,7 @@ const Clubs = () => {
               
               <div className="text-center group">
                 <div className="text-4xl md:text-5xl font-light text-white mb-2 group-hover:scale-110 transition-transform duration-300">
-                  500+
+                  200+
                 </div>
                 <div className="text-sm uppercase tracking-wider text-gray-300">
                   Active Members
@@ -253,7 +262,7 @@ const Clubs = () => {
               
               <div className="text-center group">
                 <div className="text-4xl md:text-5xl font-light text-white mb-2 group-hover:scale-110 transition-transform duration-300">
-                  15+
+                  10+
                 </div>
                 <div className="text-sm uppercase tracking-wider text-gray-300">
                   Industry Partners
