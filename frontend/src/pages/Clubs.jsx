@@ -49,7 +49,7 @@ const clubList = [
     category: "Healthcare", 
     icon: "🧬",
     color: "from-gray-700 to-gray-500"
-  }
+  },
 
   { 
     name: "Yantrik", 
